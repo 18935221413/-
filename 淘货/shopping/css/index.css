@@ -326,6 +326,7 @@
     margin-left: -676px;
     width: 66px;
     background-color: #fff;
+    display: none;
 }
 
 .fixedtool li {
